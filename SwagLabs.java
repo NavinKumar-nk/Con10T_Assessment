@@ -44,7 +44,7 @@ public class SwagLabs
 			System.out.println("Login was successful.");
 		}
 		
-		Thread.sleep(2000);
+		Thread.sleep(2000):
 		browser.close();	
 	}
 }
